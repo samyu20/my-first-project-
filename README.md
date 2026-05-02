@@ -12,8 +12,8 @@ This repository contains my Python learning journey, including fundamentals, pro
 * Practice Problems  
 
 ## 📂 Project Structure
-├── basics/
-├── collections/
+ ├── basics/
+ ├── collections/
 ├── control_flow/
 ├── dsa/
 ├── functions/
