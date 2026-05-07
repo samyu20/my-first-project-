@@ -1,7 +1,3 @@
-# Python Practice Repository
-
-This repository contains my Python learning journey, including fundamentals, problem-solving, and core programming concepts.
-
 # Python Learning Repository
 
 This repository contains my Python learning journey, including fundamentals, collections, control flow, object-oriented programming, and Data Structures & Algorithms (DSA).
