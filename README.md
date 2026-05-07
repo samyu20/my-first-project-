@@ -2,33 +2,72 @@
 
 This repository contains my Python learning journey, including fundamentals, problem-solving, and core programming concepts.
 
+# Python Learning Repository
+
+This repository contains my Python learning journey, including fundamentals, collections, control flow, object-oriented programming, and Data Structures & Algorithms (DSA).
+
+---
+
 ## 📌 Topics Covered
-* Basics  
-* Control Flow  
-* Functions  
-* Collections  
-* Object-Oriented Programming (OOP)  
-* Data Structures & Algorithms (DSA)  
-* Practice Problems  
+
+### Basics
+- Variables
+- Data Types
+- Strings
+- Booleans
+
+### Collections
+- Lists
+- Tuples
+- Sets
+- Dictionaries
+
+### Control Flow
+- Loops
+
+### Functions
+- Function Basics
+
+### Object-Oriented Programming (OOP)
+- Classes and Objects
+
+### Data Structures & Algorithms (DSA)
+
+#### Searching
+- Binary Search
+
+#### Sorting
+- Bubble Sort
+- Selection Sort
+
+#### Linked List
+- Linked List Basics
+
+---
 
 ## 📂 Project Structure
- ├── basics/
- ├── collections/
+
+```bash
+python-project/
+│
+├── basics/
+├── collections/
 ├── control_flow/
 ├── dsa/
+│   ├── searching/
+│   ├── sorting/
+│   └── linked_list.py
 ├── functions/
 ├── oops/
 ├── practice/
-├── PyCharmMiscProject.iml
+└── README.md
 
-## 🎯 Purpose
+Technologies Used
+Python 3
+PyCharm
 
-* Build strong Python fundamentals  
-* Practice coding problems  
-* Prepare for technical interviews  
-
-## 🛠️ Technologies Used
-
-* Python 3  
-* IDE: PyCharm  
-
+Goals
+Build strong Python fundamentals
+Learn Data Structures and Algorithms
+Improve problem-solving skills
+Prepare for coding interviews
